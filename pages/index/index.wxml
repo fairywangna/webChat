@@ -1,0 +1,46 @@
+<!--index.wxml-->
+<view class="container">
+  <swiper class='rotationChart' autoplay="true" indicator-dots="true" indicator-color="#ccc" indicator-active-color="#fff">
+    <swiper-item>
+      <image src="/images/banner-1.png" />
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/banner-2.png" />
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/banner-3.png" />
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/banner-4.png" />
+    </swiper-item>
+  </swiper>
+  <view class='content'>
+    <image src='/images/图1——专业高效准确.png' class='content-1' />
+    <image src='/images/图2——限时体验.png' class='content-2' />
+    <image src='/images/立即鉴定.png' class='content-3' />
+  </view>
+  <view class='division'>
+  </view>
+  <view class='poson-box'>
+    <view class='poson'>
+      <view class='introduce'>
+        <image src='/images/head1.png'></image>
+          <text class='name'>王娜娜</text>
+          <text>小白前端开发者</text>
+      </view>
+      <view class='introduce'>
+        <image src='/images/head2.png'></image>
+          <text class='name'>王子豪</text>
+          <text>大脸盘子加憨憨</text>
+      </view>
+      <view class='introduce'>
+        <image src='/images/head3.png'></image>
+          <text class='name'>王汉文</text>
+          <text>迷人帅气膨胀蜜汁自信</text>
+      </view>
+    </view>
+  </view>
+  <view class='footer'>
+    <image src='/images/图3——底价享受奢侈.png'></image>
+  </view>
+</view>

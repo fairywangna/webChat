@@ -1,0 +1,13 @@
+<view class='container'>
+  <view class='header'>
+    <image src='zj_images/zj_banner.png'></image>
+  </view>
+  <image src='zj_images/zj_1.png' class='aboutus' />
+  <view class='text'>
+    <text>
+      深圳市森特网发展有限公司以 "价值在现"为核心,
+      以 "生态消费"为根本,致力于打造全球一流的奢侈品生产,交易,洗护,养护的服务。
+    </text>
+  </view>
+  <view class='division'></view>
+</view>

@@ -1,0 +1,63 @@
+.banner{
+  width: 100%;
+  overflow: hidden;
+}
+.banner image{
+  width: 100%;
+  height: 330rpx;
+  margin-bottom: 53rpx;
+}
+.goods-box{
+  width: 710rpx;
+  overflow: hidden;
+}
+.goods{
+  width: 100%;
+  height: 88rpx;
+}
+.goods image{
+  float: left;
+  width: 88rpx;
+  height: 88rpx;
+  margin-right: 14rpx;
+}
+.goods .name{
+  display: block;
+  font-size: 30rpx;
+  color: #000000;
+}
+.goods text{
+  display: block;
+  font-size: 26rpx;
+  margin-top: 17rpx;
+  color: #afafaf;
+}
+.wechat{
+  width: 100%;
+  height: 73rpx;
+  margin: 32rpx 0;
+}
+.wechat text{
+  display: block;
+  font-size: 28rpx;
+}
+.wechat span{
+  float: left;
+  display: block;
+  font-size: 28rpx;
+  color: #D60505;
+}
+.img{
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 45rpx;
+  border-bottom: 1rpx solid #dddddd;
+}
+.shoes{
+  float: left;
+  width: 230rpx;
+  height: 230rpx;
+}
+.pic{
+  margin: 0 10rpx;
+}
